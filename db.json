@@ -1,0 +1,14 @@
+{
+  "food":[
+ 
+    {"name":"pasta","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWbvuEHwUEpJ06dA2EulgmWWpgEsgoLahWg&usqp=CAU"},
+    {"name":"maggi","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWbvuEHwUEpJ06dA2EulgmWWpgEsgoLahWg&usqp=CAU"},
+    {"name":"chole","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuWbvuEHwUEpJ06dA2EulgmWWpgEsgoLahWg&usqp=CAU"}
+   ],
+   "cloaths":[
+ 
+    {"name":"payjama","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgDNX6-SauIWJ4rDxWDN9VuJK6k_gN9SnZZA&usqp=CAU"},
+    {"name":"kimodo","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUz0JRJ4WKCzjZzyZwtJzW1EBfxl9RT65ZpQ&usqp=CAU"},
+    {"name":"jacket","img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZh_iDchqY--2Rq7HKDP4ljuzRcW3VKCbTTQ&usqp=CAU"}
+   ]
+}
